@@ -1,6 +1,6 @@
 # Maze Challenge Game
 
-![Maze Patronus]<img src="patronus maze.png"/>
+Maze Patronus<img src="patronus maze.png"/>
 
 A simple and fun maze solver game inspired by Harry Potter’s Patronus. The program finds the shortest path through mazes that may have multiple solutions, with visual step-by-step solving animation.
 
@@ -43,7 +43,4 @@ Enjoy navigating through challenging mazes with a magical touch!
 
 This project was inspired by the idea of a Patronus navigating a labyrinth, blending algorithmic challenge with a fantasy theme.
 
----
-
-![Harry Potter style glowing Patronus animal in a maze]<img src="patronus maze.png"/>
 
